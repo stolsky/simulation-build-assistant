@@ -1,1 +1,1 @@
-# simulation-build-assistant
+# SimBA - Simulation Buildn Assistant
